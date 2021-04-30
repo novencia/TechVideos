@@ -1,9 +1,9 @@
 ![Logo of the project](https://github.com/novencia/TechVideos/blob/main/LogoNovencia.png)
 
-# Les décodeurs - Tech videos
-> Description décodeurs à remplir
+# Description générale
+Les décodeurs : la nouvelle web série de novencia ! La communauté Tech de novencia prend la parole et déchiffre avec vous des concepts techniques tels que l'algorithmie.
 
 ## Liens
 
-- Les décodeurs 01 - BigO: <ajouter lien>
-- Les décodeurs 02 - Les graphes: <ajouter lien>
+- 01 BigO : Comment mesurer la complexité de vos algorithmes, pour comprendre davantage comment la performance peut évaluer en fonction de la taille des données ?
+- 02 Graphes : À la découverte des graphes, et des algorithmes de graphes !
