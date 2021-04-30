@@ -1,4 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/novencia/TechVideos/main/logonovencia.png)
+![Logo of the project](https://github.com/novencia/TechVideos/blob/main/LogoNovencia.png)
 
 # Les décodeurs - Tech videos
 > Description décodeurs à remplir
