@@ -3,7 +3,7 @@
 # Les décodeurs - Tech videos
 > Description décodeurs à remplir
 
-## Video Links
+## Liens
 
 - Les décodeurs 01 - BigO: <ajouter lien>
 - Les décodeurs 02 - Les graphes: <ajouter lien>
